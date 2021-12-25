@@ -1,3 +1,0 @@
-/server/node_modules
-/server/config.js
-/test/node_modules
